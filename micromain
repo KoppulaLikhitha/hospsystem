@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Hospital</title>
+    <h4>Hospitals....LIFE'S ON</h4>
+
+    <link rel="stylesheet" href="microproma.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+ <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
+ <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+</head>
+
+  <body>
+     <header class="heading">
+       <img class="logo" src="https://media2.picsearch.com/is?9nR6dipm23cenHC-wgxBA0E-r0tZfEjYgjs2k3pd08c&height=256" alt="">
+       <span class="navigationSpace"/>
+
+        <a class="links" href="C:\Users\LIKHITHA REDDY\Documents\micropro\selfreg.html">Self Registration </a>
+        <span class="navigationSpace"/>
+
+        <a  class="links" href="C:\Users\LIKHITHA REDDY\Documents\micropro\doctorsprofile.html">Doctors Profile</a>
+<span class="navigationSpace"/>
+        <a class="links" href="www.google.com">Access LabReports</a>
+<span class="navigationSpace"/>
+        <a class="links" href="www.google.com">Procedures  </a>
+
+        <span class="navigationSpace"/><a class="links" href="www.google.com">Contact Us </a>
+
+<span class="navigationSpace"/><i class="fa fa-ambulance" aria-hidden="true">Ambulance Service</i>
+
+</header>
+
+
+<div class="slider">
+  <div id="slider" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+
+    <div class="carousel-item active">
+        <img src="https://media3.picsearch.com/is?v4fgayVKK7J8XmqqAq_QOtgy9hRD3SeqgBNW05u0JAQ&height=240" class="d-block w-100">
+    </div>
+
+    <div class="carousel-item">
+      <img src="https://media3.picsearch.com/is?7zdk4_rlw3F52FtfQlMJLtpIyB38jE7QYqJ8YuqbiUk&height=107" class="d-block w-100">
+    </div>
+
+    <div class="carousel-item">
+      <img src="https://media3.picsearch.com/is?fJQPGHh3OzfW2o18HSMbXQ-YTRR-cwMAqBIj7ALVUTE&height=194" class="d-block w-100">
+    </div>
+
+    <div class="carousel-item">
+      <img src="https://media2.picsearch.com/is?SLp8_AiLYykwAkrmXPSdhjeKEpcfZKOEAp7hnogxQaY&height=107" class="d-block w-100">
+    </div>
+  </div>
+</div>
+</div>
+
+<div class="middlepages">
+
+  <div class="sec">
+<a class="links" href="C:\Users\LIKHITHA REDDY\Documents\micropro\neuros.html">NEUROLOGY DEPARTMENT</a>
+    <img src="https://media2.picsearch.com/is?aHN486mPel2scsNrs7L6WZxq-FexPFK6VaWIN-2cJkc&height=245">
+    <h2>System	: Nervous system</h2>
+    <p>Neurology is a branch of medicine , dealing with nervous system.</p>
+  </div>
+
+    <div class="sec">
+    <a class="links" href="C:\Users\LIKHITHA REDDY\Documents\micropro\cardio.html">CARDIOLOGY DEPARTMENT</a>
+      <img src="https://media1.picsearch.com/is?WYoh_wg_xnBEgSmZQDO_mSHOaCqwPzatGGOL9inw7Bc&height=341">
+      <h2>System : Cardio-Vascular System</h2>
+      <p>Cardiology is a branch of medicine ,dealing with heart diseases.</p>
+      </div>
+
+
+      <div class="sec">
+        <a class="links" href="C:\Users\LIKHITHA REDDY\Documents\micropro\physio.html">PHYSIOTHERAPY DEPARTMENT</a>
+        <img src="https://media5.picsearch.com/is?kfz_pASzQBvKr75Ix6PITldr45Lt24wVWcs0Ll_cTqg&height=255">
+        <h2>System : Physiotherapic System</h2>
+        <p>Physiology that deals with study of functions of human body. </p>
+      </div>
+</div>
+
+<footer class="foot">
+
+  <a class="lines" href="#">Vijayawada  | </a>
+  <span class="navigationSpace"/>
+
+  <a  class="lines" href="www.google.com">Hyderabad  |</a>
+  <span class="navigationSpace"/>
+
+  <a class="lines" href="www.google.com">Banglore  |</a>
+  <span class="navigationSpace"/>
+
+  <a class="lines" href="www.google.com">  Mumbai </a>
+
+  <span class="navigationSpace"/>
+
+<h5>CopyRight @2020 Health Enterprises Pvt.Ltd - All Rights Reserved</h5>
+</footer>
+
+</body>
+
+
+</html>
