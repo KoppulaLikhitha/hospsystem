@@ -1,0 +1,73 @@
+.logo{
+  width:10%;
+}
+.heading{
+  background-color: silver;
+  padding-bottom: 100;
+  position: relative;
+  margin: 0;
+}
+.links{
+  font-size: 100;
+  font-family: sans-serif;
+  right: 50%;
+  margin-bottom: 50%;
+  line-height: 27px;
+  border: 1px solid #034e9f;
+    border-radius: 6px;
+    color: #034e9f;
+    padding: 3px 5px;
+    float: none;
+    box-sizing: border-box;
+    display: inline-width;
+  text-decoration: none;
+}
+
+span.navigationSpace {
+    padding-left: 70px;
+}
+
+.slider{
+  width: 95%;
+  margin-left: 1%;
+  padding: 1 1 1 1;
+}
+.carousel{
+  box-shadow: 0.2px 0.2px 0.2px 0.2px rgba(0,0,0,0.2);
+}
+.carousel-indicators{
+  z-index: 1;
+}
+
+.middlepages{
+  overflow: hidden;
+  display: inline-block;
+}
+.sec{
+  max-width: 100%;
+  max-height: 20%;
+  display: inline-block;
+
+}
+
+.foot{
+  background-color: pink;
+  padding-bottom: 100;
+  position: relative;
+  margin: 0;
+}
+
+
+.lines{
+  font-size: 100;
+  font-family: sans-serif;
+  right: 50%;
+  margin-bottom:90%;
+  line-height: 100px;
+  color: #034e9f;
+  padding: 3px 5px;
+  float: none;
+  box-sizing: border-box;
+  display: inline-width;
+  text-decoration: none;
+  }
