@@ -1,0 +1,50 @@
+.formstyle{
+    padding-left: 50px;
+}
+.heading1{
+    color: dodgerblue;
+    font-family: monospace;
+}
+.links{
+    font-size: 20px;
+  font-family: sans-serif;
+  right: 50%;
+  margin-bottom: 50%;
+  line-height: 27px;
+  border: 1px solid #034e9f;
+    border-radius: 6px;
+    color: #034e9f;
+    padding: 3px 5px;
+    float: none;
+    box-sizing: border-box;
+    display: inline-width;
+  text-decoration: none;
+}
+span.navigationSpace {
+    padding-left: 70px;
+}
+.logo{
+    width:9%;
+}
+.heading{
+    background-color: rgba(255, 99, 71, 0.1);
+     padding-bottom: 100;
+     position: relative;
+     margin: 0;
+     height: 9%;
+}
+div{
+    margin-bottom: 10px;
+}
+label{
+    font-size: large;
+    display: inline-block;
+width: 150px;
+}
+section{
+    width: 40%;
+    background-color: thistle;
+    margin: 10px 5px;
+    margin-left: 15px;padding: 40px 20px 20px;
+     text-align: center;
+}
